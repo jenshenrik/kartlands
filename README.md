@@ -9,6 +9,8 @@ These rules are in active development, and changes are to be expected. I am usin
 scaled the movement templates to use for 28mm Gaslands, as described in the rules book. Feel free to scale according to
 whatever vehicles you have available.
 
+This is a fan made rule set and it is in no way affiliated with neither Planet Smasher Games of The LEGO Group.
+
 ## Basic Rules
 As a general rule, this game followes the basic rules laid out in Gaslands. What is described below is where this mod 
 deviates from those rules.
