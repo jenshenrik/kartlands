@@ -10,5 +10,27 @@ scaled the movement templates to use for 28mm Gaslands, as described in the rule
 whatever vehicles you have available.
 
 ## Basic Rules
-As a general rule, this game followed the basic rules laid out in Gaslands. What is described below is where this mod 
+As a general rule, this game followes the basic rules laid out in Gaslands. What is described below is where this mod 
 deviates from those rules.
+
+### Hazards
+This game does not use Hazard Tokens, but Coins. Coins are an inversion of Hazard Tokens -- whenever a rule calls for a 
+vehicle to gain a Hazard Token, instead it loses a Coin. Vehicles start a game of Kartlands with six Coins.
+
+This affects the following rules.
+
+#### Skid Dice
+Shift results can be used to cancel Hazard, Slide, and Spin results. A vehicle loses a Coin for any uncancelled Hazard, 
+Slide, and Spin results. Shift results can also be used to change gear, at the cost of a Coin or an additional Shift.
+
+#### Hazardous Maneuvres
+Whenever a vehicle's controller selects a Hazardous Maneuvre, the vehicle immediately loses one Coin.
+
+#### Trivial Maneuvres
+Whenver a vehicle's controller selects a Trivial Maneuvre, the vehicle immediately gains one Coin.
+
+#### Push It
+If a player chooses to Push It, they must pay one Coin to do so.
+
+#### Wipeout Step
+A vehicle without any Coins in the Wipeout Step wipes out, as described in the Gaslands rulebook.
